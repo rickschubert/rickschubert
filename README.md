@@ -2,7 +2,7 @@
 
 :mailbox_with_mail: [Send me an e-mail](mailto:rickschubert@gmx.de)
 
-### Deeply passionate about automating processes.
+### Deeply passionate about automating processes
 
 :robot: - Expert in test automation
 
