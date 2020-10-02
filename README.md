@@ -1,6 +1,6 @@
 :earth_africa: [Visit my website](https://rickschubert.net)
 
-:mailbox_with_mail: [Send me an e-mail](rickschubert@gmx.de)
+:mailbox_with_mail: [Send me an e-mail](mailto:rickschubert@gmx.de)
 
 
 ### Deeply passionate about automating processes.
