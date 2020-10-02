@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rickschubert)
+
 :earth_africa: [Visit my website](https://rickschubert.net)
 
 :mailbox_with_mail: [Send me an e-mail](mailto:rickschubert@gmx.de)
