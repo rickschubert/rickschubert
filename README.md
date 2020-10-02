@@ -4,11 +4,7 @@
 
 :robot: Expert in test automation: Browser automation (WebdriverIO, Selenium, Cypress) / Headless automation with custom scripts
 
-:whale: Docker
-
-:penguin: Linux/UNIX
-
-:bellhop_bell: Continuous Integration (CI/CD) with Jenkins/CircleCI etc.
+:whale: Docker  :penguin: Linux/UNIX  :bellhop_bell: Continuous Integration (CI/CD) with Jenkins/CircleCI etc.
 
 My main programming language is JavaScript/TypeScript, but I have also dabbled in many others over the years. My newest passion is the Go programming language which I wish to use more in the feature.
 
