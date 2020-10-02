@@ -2,7 +2,10 @@
 
 ### Deeply passionate about automating processes
 
-:robot: Expert in test automation: Browser automation (WebdriverIO, Selenium, Cypress) / Headless automation with custom scripts
+:robot: Expert in test automation: 
+
+- Browser automation (WebdriverIO, Selenium, Cypress)
+- Headless automation using custom scripts
 
 :whale: Docker  :penguin: Linux/UNIX  :bellhop_bell: Continuous Integration (CI/CD) with Jenkins/CircleCI etc.
 
