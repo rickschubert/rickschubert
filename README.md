@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=rickschubert)
+![](https://komarev.com/ghpvc/?username=rickschubert&color=green)
 
 :earth_africa: [Visit my website](https://rickschubert.net)
 
