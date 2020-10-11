@@ -12,5 +12,3 @@
 My main programming language is JavaScript/TypeScript, but I have also dabbled in many others over the years. My newest passion is the Go programming language which I wish to use more in the feature.
 
 Outside of programming, I am also a writer who recently finished a stage play.
-
-![](https://komarev.com/ghpvc/?username=rickschubert&color=green)
