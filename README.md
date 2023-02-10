@@ -4,4 +4,4 @@
 
 My main programming languages are JavaScript/TypeScript and Golang, but I have also dabbled in many others over the years.
 
-I recently also launched an online course on Automated Web Testing with JavaScript and Playwright - you can check it out here! https://www.udemy.com/course/automated-web-testing/?referralCode=A24D5BD518B4CDBF1BFD
+I recently also launched an online course on Automated Web Testing with JavaScript and Playwright - [you can check it out here](https://www.udemy.com/course/automated-web-testing/?referralCode=A24D5BD518B4CDBF1BFD)!
